@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1005600498185",
+    "firebase_url": "https://kteam-2feed-default-rtdb.firebaseio.com",
+    "project_id": "kteam-2feed",
+    "storage_bucket": "kteam-2feed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005600498185:android:e2dc11b5006e6230c20ed8",
+        "android_client_info": {
+          "package_name": "com.example.kteam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005600498185-65klme25h7g9gb2t561a7huiq4vt496f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhF5qhM1uIBAssX5yHXKqXQQplfBBU_vE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005600498185-65klme25h7g9gb2t561a7huiq4vt496f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
